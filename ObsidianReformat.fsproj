@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Values.fs" />
+    <Compile Include="Types.fs" />
+    <Compile Include="GetData.fs" />
+    <Compile Include="CreateFiles.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+</Project>
